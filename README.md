@@ -2,7 +2,7 @@
 
 Brackets balance verification
 
-###Functional requirements:
+### Functional requirements:
 The sequence of brackets is balanced when the following conditions are met:
 
 It contains no unmatched brackets.
